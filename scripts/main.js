@@ -1,3 +1,3 @@
 document.querySelector("html").addEventListener("click", function () {
-    alert("Aïe, arrêtez de cliquer !!");
+    alert("Bravo, vous avez émis 12T de Co2, GENIAL !!");
   });
